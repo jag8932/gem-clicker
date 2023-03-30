@@ -1,0 +1,17 @@
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\bin\Debug\netstandard2.0\GemClicker.deps.json
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\bin\Debug\netstandard2.0\GemClicker.dll
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\bin\Debug\netstandard2.0\GemClicker.pdb
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\GemClicker.csproj.AssemblyReference.cache
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\GemClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\GemClicker.AssemblyInfoInputs.cache
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\GemClicker.AssemblyInfo.cs
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\GemClicker.csproj.CoreCompileInputs.cache
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\GemClicker.dll
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\refint\GemClicker.dll
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\GemClicker.pdb
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\ref\GemClicker.dll
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\Views\TabbedPage1.xaml.g.cs
+C:\programming_work\340\GemClicker\GemClicker\GemClicker\obj\Debug\netstandard2.0\Views\UpgradePage.xaml.g.cs
